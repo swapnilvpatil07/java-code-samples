@@ -28,7 +28,7 @@ import lombok.extern.slf4j.Slf4j;
  */
 @Configuration
 @Slf4j
-public class TestJobConfig {
+public class TaskletJobConfig {
 
 	@Autowired
 	private JobBuilderFactory builderFactory;
